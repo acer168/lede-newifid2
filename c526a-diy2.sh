@@ -19,7 +19,7 @@
 
 
 # 修改固件默认名称
-sed -i 's/ImmortalWrt/HIWIFI/g' package/base-files/files/bin/config_generate
+sed -i 's/OpenWrt/HIWIFI/g' package/base-files/files/bin/config_generate
 
 # 修改固件默认时区
 sed -i 's/UTC/CST-8/g' package/base-files/files/bin/config_generate
