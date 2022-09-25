@@ -1,4 +1,4 @@
-# OpenWrt21.02-X86-64云编译项目
+# OpenWrt-lede-newifid2-c526a云编译项目
 
 ## 固件来源
 
@@ -14,7 +14,7 @@ istore应用商店地址：[https://github.com/linkease/istore](https://github.c
 
 immortalwrt源码版本，内核为***5.4***版
 
-openwrt-Project源码版本，***openwrt-21.02***
+openwrt-Project源码版本，***openwrt-lede***
 
 不定时更新，默认周更
 
@@ -25,13 +25,6 @@ openwrt-Project源码版本，***openwrt-21.02***
 ### 点击[Actions](https://github.com/firkerword/openwrt-Project/actions/workflows/openwrt-Project.yml) 或者[Releases](https://github.com/firkerword/openwrt-Project/releases) 选择需要的版本
 ![avatar](https://raw.githubusercontent.com/firkerword/openwrt-stable-version/main/boc/c.png)
 
-## 固件截图：
-![avatar](https://raw.githubusercontent.com/firkerword/openwrt-Project/main/boc/03.jpg)
-### 其他
-
-联系：[Tg频道订阅](https://t.me/zhinengchaoshenzhe)
 
 稳定自用版云编译地址：[https://github.com/firkerword/openwrt-Exclusive](https://github.com/firkerword/openwrt-Exclusive)
-
-
 
