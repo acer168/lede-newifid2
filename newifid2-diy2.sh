@@ -25,7 +25,7 @@ sed -i 's/OpenWrt/NEWIFI/g' package/base-files/files/bin/config_generate
 sed -i 's/UTC/CST-8/g' package/base-files/files/bin/config_generate
 
 # 管理地址
-sed -i 's/192.168.1.1/192.168.99.2/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.99.1/g' package/base-files/files/bin/config_generate
 
 # 默认主题
 sed -i 's/luci-theme-bootstrap/luci-theme-argonne/g' feeds/luci/collections/luci/Makefile
